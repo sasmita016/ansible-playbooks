@@ -1,11 +1,11 @@
-[all:vars]
+all:vars]
 ansible_connection=ssh
 ansible_ssh_common_args='-o StrictHostKeyChecking=no'
 ansible_ssh_user=sshuser
 ansible_ssh_pass="{{ vault_ssh_pass }}"
 
 [group1]
-18.237.193.35
+54.186.68.242
 
 [group2]
 54.186.68.242
