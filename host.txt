@@ -5,6 +5,7 @@ ansible_ssh_user=sshuser
 ansible_ssh_pass="{{ vault_ssh_pass }}"
 
 [group1]
-
+18.237.193.35
 
 [group2]
+54.186.68.242
