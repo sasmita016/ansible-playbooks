@@ -1,0 +1,2 @@
+---
+ssh_user: "{{ vault_ssh_pass }}"
